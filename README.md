@@ -4,6 +4,9 @@ jQuery Event Calendar:
 jQuery plugin to show events in a calendar in a very comfortable way
 
 Main features:
+* Compatible with Jquery 2 and 3
+* Compatible with bootstrap layout 3 and 4
+* Change Style as you like: You can edit the .css file to restyle
 * Fluid Calendar: calendar will be shown with the width of its parent. Size is recalculated on window resize. So you can use it in your responsive designs
 * Change Style as you like: You can edit the .css file to restyle
 * Light: Less than 8kb of Javascript(minified)
@@ -13,11 +16,3 @@ Main features:
 More Info:
 ----------------
 http://www.vissit.com/projects/eventCalendar/
-
-
-
-
-
-
-
-
